@@ -1,10 +1,6 @@
 # define
 Defines the specified word on the command line.  Golang.
 
-[Download it](https://raw.githubusercontent.com/integrii/define/master/define) for MacOS and put it in your `$PATH `:
-
-OR
-
 Compile and install it to `$GOBIN` using `go get`:
 
 `go get github.com/integrii/define`
